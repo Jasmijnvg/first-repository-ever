@@ -6,4 +6,6 @@ public class Dogowner {
         this.name = name;
         this.namedog = namedog;
     }
+
+
 }
