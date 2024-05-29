@@ -1,7 +1,7 @@
 public class Dogowner {
     String name;
     String namedog;
-    Integer age;
+    Integer agedog;
     String lastname;
 
     public Dogowner(String name, String namedog) {
